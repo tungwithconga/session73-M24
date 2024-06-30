@@ -1,0 +1,29 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "name": "Lau nhà rồi mà",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Rửa chén",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Giặt quần áo",
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "Nấu ăn",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Dọn phòng",
+      "status": false
+    }
+  ]
+}
